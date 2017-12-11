@@ -1,5 +1,5 @@
 # maven-repo
-🚀lamkezyi's maven repository
+🚀lamkeizyi's maven repository
 
 ## first import maven repository
 
