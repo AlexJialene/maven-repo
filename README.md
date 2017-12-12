@@ -23,3 +23,13 @@
     <version>1.0-beta-1</version>
 </dependency>
 ```
+
+### `syuio 1.0-beta-2`
+
+```
+<dependency>
+    <groupId>syuio</groupId>
+    <artifactId>syuio</artifactId>
+    <version>1.0-beta-2</version>
+</dependency>
+```
