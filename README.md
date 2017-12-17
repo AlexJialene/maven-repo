@@ -14,6 +14,16 @@
 
 ## second Import the package you want
 
+### `prototransl 1.0-beta-3`
+
+```
+<dependency>
+    <groupId>prototransl</groupId>
+    <artifactId>com.prototransl</artifactId>
+    <version>1.0-beta-3</version>
+</dependency>
+```
+
 ### `syuio 1.0-beta-1`
 
 ```
@@ -33,3 +43,5 @@
     <version>1.0-beta-2</version>
 </dependency>
 ```
+
+
