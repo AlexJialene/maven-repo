@@ -14,6 +14,19 @@
 
 ## second Import the package you want
 
+### `osskit`
+
+> Alibaba Cloud oss upload tool
+
+```
+<dependency>
+    <groupId>com.keiyzi.oss</groupId>
+    <artifactId>osskit</artifactId>
+    <version>1.0</version>
+</dependency>
+
+```
+
 ### `prototransl 1.0-beta-3`
 
 ```
